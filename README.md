@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashutosh-dave
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on many open source projects and my own passion projects
-- 📫 How to reach me : ashutoshdave927@gmail.com
+-  Hi, I’m @ashutosh-dave
+-  I am final year Computer Engineering Student.
+-  I like to build stuff using HTML, CSS, JavaScript and other frameworks of JavaScript.
+-  I love to tinker with data!
+-  How to reach me : ashutoshdave927@gmail.com
 
 <!---
 ashutosh-dave/ashutosh-dave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
