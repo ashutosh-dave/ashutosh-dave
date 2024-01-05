@@ -1,5 +1,3 @@
-# Figuring out.
+# Figuring things out.
 
-- Hello I am Ashutosh Dave.
-- I am a final year engineering student at A D Patel Institute of Technology.
-- 
+Hey, this is Ashutosh. I write lots of spaghetti code, trying to git good and overcome my skill issues.
