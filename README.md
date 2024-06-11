@@ -1,1 +1,4 @@
-Hey, this is Ashutosh. I write lots of spaghetti code, trying to git good and overcome my skill issues.
+overcoming skill issue.
+
+interested in building scalable systems, back-end engineering, machine learning, math, quant, physics, video games, music, poker, f1, and mma.
+
