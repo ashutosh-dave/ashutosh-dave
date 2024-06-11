@@ -1,4 +1,6 @@
-overcoming skill issue.
+# overcoming skill issue.
 
-interested in building scalable systems, back-end engineering, machine learning, math, quant, physics, video games, music, poker, f1, and mma.
-
+- good enough python, javascript, and java dev.
+- interested in backend-engineering, machine learning, quant, math, and physics.
+- trying to git gud at leetcode
+- at work, mostly write php and jQuery
