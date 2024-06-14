@@ -1,6 +1,6 @@
 # overcoming skill issue.
 
-- at work, i mostly write php and jQuery.
+- at work, i mostly write php, javascript and jQuery. some ajax here and there as well. (dinosaur tech lol)
 - good enough python, javascript, and java dev.
 - interested in backend-engineering, electronics, machine learning, quant, math, and physics.
 - trying to transition from a 0.5xer to a 10xer.
