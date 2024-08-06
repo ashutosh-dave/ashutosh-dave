@@ -8,4 +8,5 @@
 - trying to transition from a 0.5xer to a 10xer.
 - big time military industrial complex fanboy.
 
-*you'll also catch me talking about aviation, f1, chess, mma, poker, video games, and music.*
+*i also don't mind talking about art, aviation, chess, cinema, f1, football, mma, music, poker, and video games*
+maybe i will start writing a blog soon!
