@@ -1,7 +1,7 @@
 # hey, i am ashutosh.
 
 `Overcoming skill issue.`
-- at work, i mostly write php, and javascript.
+- at work, i mostly write php, and javascript. also, i build lots of utility tools for the team!
 - also a java, golang, and python script kiddie.
 - started dabbling with web3 and building [@SolEstate](https://github.com/SolEstate)
 - interested in backend-engineering, electronics, machine learning, quant, math, and physics.
