@@ -5,7 +5,7 @@
 - also a java, golang, and python script kiddie.
 - started dabbling with web3 and building [@SolEstate](https://github.com/SolEstate)
 - interested in backend-engineering, electronics, machine learning, quant, math, and physics.
-- trying to transition from a 0.5xer to a 10xer.
+- trying to transition from a 0.5xer to a 100xer.
 - big time military industrial complex fanboy.
 
 *i also don't mind talking about art, aviation, chess, cinema, f1, football, mma, music, poker, and video games* - 
