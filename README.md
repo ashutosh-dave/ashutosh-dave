@@ -1,4 +1,3 @@
 hi, my name is ashutosh.
 
-i work with nextjs, nestjs, and postges.
-deep down, java fanboy.
+pivoting to back-end engineering from my usual agency web dev job.
